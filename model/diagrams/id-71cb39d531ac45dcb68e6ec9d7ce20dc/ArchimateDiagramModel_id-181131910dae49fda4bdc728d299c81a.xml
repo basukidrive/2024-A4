@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1. Policy &amp; Business Rules"
-    id="id-181131910dae49fda4bdc728d299c81a"/>
+    id="id-181131910dae49fda4bdc728d299c81a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d0108103d03348538e8a904c054b3701">
+    <bounds
+        x="120"
+        y="204"
+        width="277"
+        height="109"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-533c5b15258b4734875162049301c969.xml#id-533c5b15258b4734875162049301c969"/>
+  </children>
+</archimate:ArchimateDiagramModel>
