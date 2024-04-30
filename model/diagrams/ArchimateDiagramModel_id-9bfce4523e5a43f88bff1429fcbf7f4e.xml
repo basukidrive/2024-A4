@@ -15,4 +15,16 @@
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-67382afbffde472884f568880bf3c2c0.xml#id-67382afbffde472884f568880bf3c2c0"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-144a8a82e1214b958f43d8bab3552f24">
+    <bounds
+        x="144"
+        y="276"
+        width="181"
+        height="97"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-023575083e6545a8ac55fd2181010d23.xml#id-023575083e6545a8ac55fd2181010d23"/>
+  </children>
 </archimate:ArchimateDiagramModel>
