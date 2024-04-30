@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. Policy &amp; Business Rules (copy)"
+    name="1. Policy &amp; Business Rules"
     id="id-b0f10c8bdeae4ce89833c6639a4b4f21">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -803,7 +803,7 @@
           href="AssociationRelationship_id-768406189eeb47fa9fd36940d47fde53.xml#id-768406189eeb47fa9fd36940d47fde53"/>
     </sourceConnections>
     <bounds
-        x="1164"
+        x="1248"
         y="480"
         width="289"
         height="105"/>
@@ -858,7 +858,7 @@
           href="AssociationRelationship_id-70e83fd387754722b5ee83ad74b24d71.xml#id-70e83fd387754722b5ee83ad74b24d71"/>
     </sourceConnections>
     <bounds
-        x="1249"
+        x="1333"
         y="624"
         width="120"
         height="55"/>
@@ -914,7 +914,7 @@
           href="AssociationRelationship_id-47782245bc98438e852705af2ad9ee08.xml#id-47782245bc98438e852705af2ad9ee08"/>
     </sourceConnections>
     <bounds
-        x="1249"
+        x="1333"
         y="960"
         width="120"
         height="55"/>
@@ -927,7 +927,7 @@
       id="id-5bdd75757c964c3092b9d255010d7c6f"
       targetConnections="id-b66dfdf3a66b4667bbe528b720d879c2">
     <bounds
-        x="1249"
+        x="1333"
         y="1248"
         width="120"
         height="55"/>
@@ -949,7 +949,7 @@
           href="AssociationRelationship_id-b3be7d0b91824824b37e0f012654d9f8.xml#id-b3be7d0b91824824b37e0f012654d9f8"/>
     </sourceConnections>
     <bounds
-        x="1188"
+        x="1272"
         y="762"
         width="120"
         height="55"/>
@@ -971,7 +971,7 @@
           href="AssociationRelationship_id-2c7863a781774b2dae80cfe30eb22ce0.xml#id-2c7863a781774b2dae80cfe30eb22ce0"/>
     </sourceConnections>
     <bounds
-        x="1355"
+        x="1439"
         y="762"
         width="120"
         height="55"/>
@@ -984,7 +984,7 @@
       id="id-9a872a2ae57d463e97ca1abe16abbb38"
       targetConnections="id-d415d9162f554c1194418f456970100f">
     <bounds
-        x="1361"
+        x="1445"
         y="871"
         width="108"
         height="30"/>
@@ -997,7 +997,7 @@
       id="id-abc2a20dadfd46afbc57198ae5c3d25d"
       targetConnections="id-4e11667140dc4f48b4f02f2fbdbbc0cd">
     <bounds
-        x="1188"
+        x="1272"
         y="870"
         width="120"
         height="31"/>
@@ -1010,7 +1010,7 @@
       id="id-f9c6a0344c5f4e72bd8ad0e2732f8f4c"
       targetConnections="id-e200d654b4cc44c2b8d15e915dea8ff0">
     <bounds
-        x="1152"
+        x="1236"
         y="1068"
         width="109"
         height="55"/>
@@ -1023,7 +1023,7 @@
       id="id-be08e2437d12464a90e8b88408b56214"
       targetConnections="id-1ed1450de4c84b3896e39dc7fde32297">
     <bounds
-        x="1360"
+        x="1444"
         y="1068"
         width="109"
         height="55"/>
