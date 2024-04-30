@@ -180,15 +180,4 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-c8220ac2c5974066b2a009c8fe77795c.xml#id-c8220ac2c5974066b2a009c8fe77795c"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-5c24d8d0d1e24b54906b4241e5108212"
-      name="Group"
-      textAlignment="1">
-    <bounds
-        x="288"
-        y="192"
-        width="841"
-        height="493"/>
-  </children>
 </archimate:ArchimateDiagramModel>
