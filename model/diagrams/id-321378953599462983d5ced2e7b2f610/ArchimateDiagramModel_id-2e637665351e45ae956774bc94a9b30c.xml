@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="0. Vision"
-    id="id-2e637665351e45ae956774bc94a9b30c"/>
+    id="id-2e637665351e45ae956774bc94a9b30c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-41831d7dc8c848ce95b2ebc7687ca299">
+    <bounds
+        x="120"
+        y="168"
+        width="325"
+        height="169"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-9fe6055d65c14b7d960d4b0b761cef96.xml#id-9fe6055d65c14b7d960d4b0b761cef96"/>
+  </children>
+</archimate:ArchimateDiagramModel>
