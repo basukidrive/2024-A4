@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3. BP Decompos. Diagram"
-    id="id-bacf76943ef544b8aa31e7f064ef362a"/>
+    id="id-bacf76943ef544b8aa31e7f064ef362a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e0f9e204b3b940548995e3d1f3bc81e0">
+    <bounds
+        x="24"
+        y="48"
+        width="205"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-3848c663c7344de9abbd08e9ae0d8c16.xml#id-3848c663c7344de9abbd08e9ae0d8c16"/>
+  </children>
+</archimate:ArchimateDiagramModel>
