@@ -196,7 +196,7 @@
     <bounds
         x="251"
         y="444"
-        width="145"
+        width="170"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -222,7 +222,7 @@
     <bounds
         x="552"
         y="270"
-        width="145"
+        width="169"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
