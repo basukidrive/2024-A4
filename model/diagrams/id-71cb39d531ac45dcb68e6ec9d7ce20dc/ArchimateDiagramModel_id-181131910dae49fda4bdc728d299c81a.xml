@@ -38,7 +38,7 @@
           x="24"
           y="48"
           width="277"
-          height="109"/>
+          height="133"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_id-044c1cac10dc4f3981789ea4949ef6c2.xml#id-044c1cac10dc4f3981789ea4949ef6c2"/>
@@ -49,7 +49,7 @@
         targetConnections="id-8098f298d1e84545baaf3b33a7a583b7">
       <bounds
           x="24"
-          y="168"
+          y="192"
           width="277"
           height="109"/>
       <archimateElement
