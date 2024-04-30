@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2. Data Entity Catalog"
-    id="id-911e6b3904834a29a60c5466a258c24b"/>
+    id="id-911e6b3904834a29a60c5466a258c24b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-af9c1d8c46614a6a919ad2dd91ba9600">
+    <bounds
+        x="156"
+        y="264"
+        width="145"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-c091bceddcd044f7adee7b8ced78e64c.xml#id-c091bceddcd044f7adee7b8ced78e64c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
