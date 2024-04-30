@@ -1,15 +1,15 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Transaksi Pendaftaran WP"
+    name="1a. Data Model - Transaksi Pendaftaran WP"
     id="id-9b5cf216d98249eeb1398526cf277086">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6a2eea4c6b9346bb99ea80eb4eb85fcd"
-      targetConnections="id-541c4333f9c845fdabb3cb2a50c15245 id-9597341c090d445eb2cfeedd9bee76a8 id-fac132ea05b748c7a18cf6b2bca4897c id-24c56a16e99a43ddb2a2c702f6e7badc id-369782358df74e30963da97e37221e48 id-42692a8d4cf74f4bab1020f408462d6f id-bae6091bdcb0414ca7f511108759cd98">
+      targetConnections="id-541c4333f9c845fdabb3cb2a50c15245 id-9597341c090d445eb2cfeedd9bee76a8 id-fac132ea05b748c7a18cf6b2bca4897c id-24c56a16e99a43ddb2a2c702f6e7badc id-369782358df74e30963da97e37221e48 id-42692a8d4cf74f4bab1020f408462d6f id-bae6091bdcb0414ca7f511108759cd98 id-086358ff4685448fb388a02868177789">
     <bounds
         x="264"
-        y="167"
+        y="138"
         width="120"
         height="55"/>
     <archimateElement
@@ -162,5 +162,26 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-c719383153a943c9a3ef70037afe0d70.xml#id-c719383153a943c9a3ef70037afe0d70"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b6440ce44148447389da039789b8a3df">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-086358ff4685448fb388a02868177789"
+        source="id-b6440ce44148447389da039789b8a3df"
+        target="id-6a2eea4c6b9346bb99ea80eb4eb85fcd">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-1e28e9fb001c437996c6934f9499a364.xml#id-1e28e9fb001c437996c6934f9499a364"/>
+    </sourceConnections>
+    <bounds
+        x="264"
+        y="300"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-ed22981b458348b188d1ab5bf753035c.xml#id-ed22981b458348b188d1ab5bf753035c"/>
   </children>
 </archimate:ArchimateDiagramModel>
