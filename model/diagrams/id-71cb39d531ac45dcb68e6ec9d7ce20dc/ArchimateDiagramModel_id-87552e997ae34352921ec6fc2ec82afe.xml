@@ -218,7 +218,7 @@
           x="24"
           y="36"
           width="373"
-          height="169"/>
+          height="193"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-9beb80d86bed4f21876d4b7bb963409b">
@@ -256,7 +256,7 @@
             x="132"
             y="36"
             width="109"
-            height="49"/>
+            height="61"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_id-580202936b89437f869ffa9851d877e3.xml#id-580202936b89437f869ffa9851d877e3"/>
@@ -277,7 +277,7 @@
             x="252"
             y="36"
             width="109"
-            height="49"/>
+            height="61"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_id-ef0182f1187d4675aa71d563370a32fd.xml#id-ef0182f1187d4675aa71d563370a32fd"/>
@@ -288,9 +288,9 @@
           targetConnections="id-40b2ee35527d4861b21712ebede353f9">
         <bounds
             x="12"
-            y="96"
+            y="108"
             width="109"
-            height="61"/>
+            height="73"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_id-6d7857cba45c452e90fa9c00a8bbf546.xml#id-6d7857cba45c452e90fa9c00a8bbf546"/>
@@ -301,9 +301,9 @@
           targetConnections="id-ee958533b16244b49f34c890062f51f0">
         <bounds
             x="132"
-            y="96"
+            y="108"
             width="109"
-            height="61"/>
+            height="73"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_id-04a0ed90175847038e271afe88f40b69.xml#id-04a0ed90175847038e271afe88f40b69"/>
@@ -314,9 +314,9 @@
           targetConnections="id-4c90e9f8a7794f77b3bbe5acb49417f1">
         <bounds
             x="252"
-            y="96"
+            y="108"
             width="109"
-            height="61"/>
+            height="73"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_id-a60ff6db22f94e7aaf41dce6c072de80.xml#id-a60ff6db22f94e7aaf41dce6c072de80"/>
