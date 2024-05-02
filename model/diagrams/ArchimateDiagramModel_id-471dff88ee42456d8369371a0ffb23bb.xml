@@ -86,8 +86,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-54eb76a995544f4293ce264aae85a38d.xml#id-54eb76a995544f4293ce264aae85a38d"/>
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-c77bdd543912460c8ec564e38e1a130d.xml#id-c77bdd543912460c8ec564e38e1a130d"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -99,8 +99,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-24e72932376f49fc92af081bfb2e8a14.xml#id-24e72932376f49fc92af081bfb2e8a14"/>
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-f6bf065a326146e4a3b6ee44d4c5ec38.xml#id-f6bf065a326146e4a3b6ee44d4c5ec38"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -112,8 +112,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-47a0100a45e2433984ec5683b0f8127a.xml#id-47a0100a45e2433984ec5683b0f8127a"/>
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-278824cde63f4897826a5bee840633fc.xml#id-278824cde63f4897826a5bee840633fc"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -125,8 +125,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-6c30116be3ba4e25a67c32f8d15aff20.xml#id-6c30116be3ba4e25a67c32f8d15aff20"/>
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-330cf9c10aa14368a60ddb66c1ad1ae1.xml#id-330cf9c10aa14368a60ddb66c1ad1ae1"/>
       </children>
       <archimateElement
           xsi:type="archimate:Grouping"
@@ -188,8 +188,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-fc780e7434334d6faf7d9c73c17eac8c.xml#id-fc780e7434334d6faf7d9c73c17eac8c"/>
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-108c93bf3af54bc3bcd34009568f2f0a.xml#id-108c93bf3af54bc3bcd34009568f2f0a"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -201,8 +201,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-3a25f46bc6914885a0fa2b1b6bc5cbe0.xml#id-3a25f46bc6914885a0fa2b1b6bc5cbe0"/>
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-151a6d69ec3040dc9977335cb60fd592.xml#id-151a6d69ec3040dc9977335cb60fd592"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -214,8 +214,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-571acff3f79f44a3bb68b1b755db2d51.xml#id-571acff3f79f44a3bb68b1b755db2d51"/>
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-e5f9183db6364a82ab8e9727ae43daaf.xml#id-e5f9183db6364a82ab8e9727ae43daaf"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -227,8 +227,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-c5e90c777010429fb6eba26a878d72e8.xml#id-c5e90c777010429fb6eba26a878d72e8"/>
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-6dc9cdd8df954b07b07c3912879dbbee.xml#id-6dc9cdd8df954b07b07c3912879dbbee"/>
       </children>
       <archimateElement
           xsi:type="archimate:Grouping"
