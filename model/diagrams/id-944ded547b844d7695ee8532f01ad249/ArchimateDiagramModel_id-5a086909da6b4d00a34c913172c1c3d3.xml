@@ -196,15 +196,4 @@
         xsi:type="archimate:Device"
         href="Device_id-bb66d59de0a8458bb0ad45e3ad6d3e35.xml#id-bb66d59de0a8458bb0ad45e3ad6d3e35"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-24c2fa738d95499eaad48faff1bfe0f2"
-      textAlignment="1"
-      content="Arbi: &#xD;&#xA;Silahkan disempurnakan,arsitektur network ini masih mengambil contoh dari slide panduan">
-    <bounds
-        x="12"
-        y="12"
-        width="145"
-        height="109"/>
-  </children>
 </archimate:ArchimateDiagramModel>
