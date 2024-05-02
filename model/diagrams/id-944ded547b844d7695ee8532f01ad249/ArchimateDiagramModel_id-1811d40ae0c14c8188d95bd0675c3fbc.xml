@@ -252,17 +252,6 @@
         href="TechnologyFunction_id-3dd3293053b64783ae266cf33e973b2e.xml#id-3dd3293053b64783ae266cf33e973b2e"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-3fdfed24dd46467ab9c02def0a976174"
-      textAlignment="1"
-      content="Arbi-on progress">
-    <bounds
-        x="12"
-        y="12"
-        width="109"
-        height="61"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dd262b3a21634acab0f62a7516d8d37c"
       targetConnections="id-1f403a565d384679960c9f3e7ca0675d id-5a8c92de19dd4f3eae3790c4720cffaf id-6d6c575c18da4b61b62c74a33c92a953 id-9107822bb7024abaa3de52e1d91a52f8 id-3a591175ba624f8ba056aa9dd375f152 id-3b93a3d096df4ddda50d768a8ceee30e id-bce328410449468d80626d0d5c68e78c id-256bb819a57149a084c58434920f6d4f id-77ff5c297e35465cab1b49f91d5e9f57 id-6bae36eff6d5416f8fc873995d739090 id-a67bfd56ce6444f5b3fdd84769c7d8a8 id-38b2036d42e04b9fa567d4d0b1c5889f id-cacb09fcef4547a790042da9ce493a79 id-8877b91c3b1c435ba4df8aa333ca2a77 id-40abcba21b0e4da1ac668ca3848201fe id-cda1c7d469e84674a0c93242e9aab941">
