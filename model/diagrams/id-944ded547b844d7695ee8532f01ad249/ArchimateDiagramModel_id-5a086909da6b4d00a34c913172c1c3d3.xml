@@ -200,11 +200,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-24c2fa738d95499eaad48faff1bfe0f2"
       textAlignment="1"
-      content="Silahkan disempurnakan,arsitektur network ini masih mengambil contoh dari slide panduan">
+      content="Arbi: &#xD;&#xA;Silahkan disempurnakan,arsitektur network ini masih mengambil contoh dari slide panduan">
     <bounds
-        x="48"
-        y="96"
+        x="12"
+        y="12"
         width="145"
-        height="97"/>
+        height="109"/>
   </children>
 </archimate:ArchimateDiagramModel>
