@@ -295,8 +295,8 @@
           width="109"
           height="49"/>
       <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-bb2272dc75564b9890dc297a141c162d.xml#id-bb2272dc75564b9890dc297a141c162d"/>
+          xsi:type="archimate:ApplicationCollaboration"
+          href="ApplicationCollaboration_id-0457509e7b8b4c6190673b6a2da130dd.xml#id-0457509e7b8b4c6190673b6a2da130dd"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -340,8 +340,8 @@
           width="109"
           height="49"/>
       <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-ac2eeeb4cec2456dbb24b11218f642ae.xml#id-ac2eeeb4cec2456dbb24b11218f642ae"/>
+          xsi:type="archimate:ApplicationFunction"
+          href="ApplicationFunction_id-1d9e710d69704a7e9c6847d93c7ad4f4.xml#id-1d9e710d69704a7e9c6847d93c7ad4f4"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
