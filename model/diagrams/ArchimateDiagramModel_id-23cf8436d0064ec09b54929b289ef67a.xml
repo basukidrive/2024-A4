@@ -51,7 +51,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-590b98b1da264a58b389b6f3b6079aa8"
-        targetConnections="id-c5dd8b8eef5e4ad59ed846a5e66cac0a">
+        targetConnections="id-c5dd8b8eef5e4ad59ed846a5e66cac0a id-cdefa81c20d34cf986ff89008f87b64a">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-a818110786144b4e995b2d81f46bf843"
@@ -100,7 +100,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d495adc71cb147e2a183ced570f47cc2"
-        targetConnections="id-f8ca7a20e47b484bb9912abb18e7903d">
+        targetConnections="id-f8ca7a20e47b484bb9912abb18e7903d id-743b112c6ad24da39c09d0b7a35c690f">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-7e9b5145d68742dd978bdc648514b3cb"
@@ -346,6 +346,24 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-65fc6bde67a74387890d5287f9941c61"
         targetConnections="id-4a5f0ecfcdce4a809b10b5a0b7c5242b id-2740f34f86ec4bd28ae4b6b27cf77d9a id-a8f7d07bd1e9490baab34de80a9cd433">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-743b112c6ad24da39c09d0b7a35c690f"
+          source="id-65fc6bde67a74387890d5287f9941c61"
+          target="id-d495adc71cb147e2a183ced570f47cc2">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-80e85d335cd445cd976d1ac603b5e6df.xml#id-80e85d335cd445cd976d1ac603b5e6df"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-cdefa81c20d34cf986ff89008f87b64a"
+          source="id-65fc6bde67a74387890d5287f9941c61"
+          target="id-590b98b1da264a58b389b6f3b6079aa8">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-2a605e210fe6425296d260ca3a8c1fe9.xml#id-2a605e210fe6425296d260ca3a8c1fe9"/>
+      </sourceConnections>
       <bounds
           x="12"
           y="360"
