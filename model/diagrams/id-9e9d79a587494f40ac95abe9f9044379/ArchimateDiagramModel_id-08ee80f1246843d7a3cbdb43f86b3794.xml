@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4. Application Migration Diagram"
-    id="id-08ee80f1246843d7a3cbdb43f86b3794"/>
+    id="id-08ee80f1246843d7a3cbdb43f86b3794">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6d3e7d5dc6684ff2a42047c856bc8411">
+    <bounds
+        x="130"
+        y="111"
+        width="159"
+        height="226"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-faed1dc44dcd4c7baa70d2a7b012357d.xml#id-faed1dc44dcd4c7baa70d2a7b012357d"/>
+  </children>
+</archimate:ArchimateDiagramModel>
