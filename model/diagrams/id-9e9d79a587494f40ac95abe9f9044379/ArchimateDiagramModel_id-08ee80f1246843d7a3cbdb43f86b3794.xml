@@ -44,7 +44,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="60"
+          y="72"
           width="145"
           height="97"/>
       <children
@@ -57,9 +57,9 @@
             source="id-ae7eff6072164590b36d23a69e8c77df"
             target="id-652fb77489fb4e8db12909571996ff2a">
           <bendpoints
-              startX="96"
-              endX="-156"
-              endY="-12"/>
+              startX="84"
+              endX="-168"
+              endY="12"/>
           <bendpoints
               startX="132"
               startY="12"
@@ -96,7 +96,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="168"
+          y="180"
           width="145"
           height="121"/>
       <children
