@@ -86,8 +86,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-54eb76a995544f4293ce264aae85a38d.xml#id-54eb76a995544f4293ce264aae85a38d"/>
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-8b5be2f32f1c401f9f650582e76f358a.xml#id-8b5be2f32f1c401f9f650582e76f358a"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -99,8 +99,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-24e72932376f49fc92af081bfb2e8a14.xml#id-24e72932376f49fc92af081bfb2e8a14"/>
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-b8ac833e7e844088b92f2dee9da06d9f.xml#id-b8ac833e7e844088b92f2dee9da06d9f"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -112,8 +112,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-47a0100a45e2433984ec5683b0f8127a.xml#id-47a0100a45e2433984ec5683b0f8127a"/>
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-295adcba4f6f45dfaac5093b9b7c2be4.xml#id-295adcba4f6f45dfaac5093b9b7c2be4"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -125,8 +125,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-6c30116be3ba4e25a67c32f8d15aff20.xml#id-6c30116be3ba4e25a67c32f8d15aff20"/>
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-fdbd281d72814def935aadea8e6b5cd5.xml#id-fdbd281d72814def935aadea8e6b5cd5"/>
       </children>
       <archimateElement
           xsi:type="archimate:Grouping"
