@@ -117,18 +117,18 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="24"
+          y="36"
           width="349"
-          height="265"/>
+          height="277"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-7b75bb006280474a83d0d8e9f567ada9"
           targetConnections="id-0240caf524144e07b7c715d5c17bbb27">
         <bounds
             x="192"
-            y="36"
+            y="24"
             width="120"
-            height="97"/>
+            height="109"/>
         <archimateElement
             xsi:type="archimate:ApplicationFunction"
             href="ApplicationFunction_id-8fbc790ac579470ebb5786a2eb5ca7a3.xml#id-8fbc790ac579470ebb5786a2eb5ca7a3"/>
@@ -185,14 +185,14 @@
           x="24"
           y="60"
           width="145"
-          height="217"/>
+          height="229"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-592db8efeacd440b843b54993af26376"
           targetConnections="id-2e32a980684e4d2c93ba6d535c76c3e5">
         <bounds
             x="12"
-            y="36"
+            y="48"
             width="120"
             height="49"/>
         <archimateElement
@@ -205,7 +205,7 @@
           targetConnections="id-76241c5ba6dd4192b22289fda7e8a98e">
         <bounds
             x="12"
-            y="96"
+            y="108"
             width="120"
             height="49"/>
         <archimateElement
@@ -218,7 +218,7 @@
           targetConnections="id-7e53ba860bce49abb650426122499730">
         <bounds
             x="12"
-            y="156"
+            y="168"
             width="120"
             height="49"/>
         <archimateElement
