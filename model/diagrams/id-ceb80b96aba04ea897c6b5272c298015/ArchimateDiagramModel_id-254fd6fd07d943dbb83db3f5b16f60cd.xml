@@ -190,7 +190,7 @@
           x="12"
           y="24"
           width="133"
-          height="190"/>
+          height="49"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-6f8a7eeaf23845e0801eb24e85da9d5a.xml#id-6f8a7eeaf23845e0801eb24e85da9d5a"/>
@@ -203,6 +203,10 @@
       targetConnections="id-6fe948f318f34f2f81f88de3778ec1fb"
       textAlignment="1"
       fillColor="#ffc4ff">
+    <sourceConnections
+        id="id-1ef0a4cdd16a4970a52e63bede4b626a"
+        source="id-d9abc0e3b814471382e1f7801031b894"
+        target="id-2b88651f683b4dd59dc07a313d23eabd"/>
     <bounds
         x="1092"
         y="103"
@@ -219,6 +223,31 @@
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-321082076eaf4a66b609f5cf1490537e.xml#id-321082076eaf4a66b609f5cf1490537e"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-2b88651f683b4dd59dc07a313d23eabd"
+      name="BUSINESS INTELLIGENCE"
+      targetConnections="id-1ef0a4cdd16a4970a52e63bede4b626a"
+      textAlignment="1"
+      fillColor="#ffc4ff">
+    <bounds
+        x="1260"
+        y="101"
+        width="157"
+        height="233"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ccda23b140434f22b7b8a49a53ce00b5">
+      <bounds
+          x="12"
+          y="24"
+          width="133"
+          height="190"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-73f810144c0747fdb59bb52899bcd538.xml#id-73f810144c0747fdb59bb52899bcd538"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
